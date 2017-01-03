@@ -18,12 +18,12 @@
 **Link(s) to work**:
 
 
-### Day : 
-**Today's Progress**:
+### Day 1: January 3, 2017
+**Today's Progress**:Worked on the tribute page. 
 
-**Thoughts** 
+**Thoughts** I guess I'll just embelish to review how some of these thingse work on css.  
 
-**Link(s) to work**
+**Link(s) to work** https://github.com/Sirjustin/Tribute-page
 
 ### Day : 
 **Today's Progress**:
