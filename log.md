@@ -25,12 +25,12 @@
 
 **Link(s) to work** https://github.com/Sirjustin/Tribute-page
 
-### Day : 
-**Today's Progress**:
+### Day 2:January 4, 2017
+**Today's Progress**: Worked on tribute page with Duckett in hand, reviewed loops through Codeschool.
+**Thoughts** I need a lot more working ideas to keep filling an hour of code.   
 
-**Thoughts** 
+**Link(s) to work**https://github.com/Sirjustin/Tribute-page
 
-**Link(s) to work**
 
 ### Day : 
 **Today's Progress**:
