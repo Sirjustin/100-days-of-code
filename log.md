@@ -32,6 +32,22 @@
 **Link(s) to work**https://github.com/Sirjustin/Tribute-page
 
 
+### Day 3:January 5, 2017
+**Today's Progress**:Worked on the portfolio page.  No idea how I want to set it up.  
+
+**Thoughts** Well I will feel good if I can get a start on all of the projbects.  
+
+**Link(s) to work**https://github.com/Sirjustin/Personal-Portfolio-Webpage
+
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
 ### Day : 
 **Today's Progress**:
 
