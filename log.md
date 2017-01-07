@@ -49,11 +49,11 @@
 
 
 ### Day 5: January 7, 2017
-**Today's Progress**:
+**Today's Progress**:Made the amazing discovery of githubpages, worked on css flexbox through codeschool and fixed navigation on portfolio page.  
 
-**Thoughts** 
+**Thoughts** Will focus on the html divisions and worry about stylizing towards the end of the run through of all projects 
 
-**Link(s) to work**
+**Link(s) to work** https://github.com/Sirjustin/Personal-Portfolio-Webpage
 
 ### Day 6: January 8, 2017
 **Today's Progress**:
