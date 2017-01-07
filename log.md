@@ -40,6 +40,35 @@
 **Link(s) to work**https://github.com/Sirjustin/Personal-Portfolio-Webpage
 
 
+### Day 4 : January 6, 2017
+**Today's Progress**:Worked on the portfolio page. Lots of alterations.  Finsihed Javascript Roadtrip as a review.
+
+**Thoughts** Would like to add in more time to do read Eloquent Javascript and YDKJS.  
+
+**Link(s) to work**https://github.com/Sirjustin/Personal-Portfolio-Webpage
+
+
+### Day 5: January 7, 2017
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 6: January 8, 2017
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
 ### Day : 
 **Today's Progress**:
 
@@ -55,3 +84,139 @@
 
 **Link(s) to work**
 
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
