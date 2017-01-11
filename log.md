@@ -56,21 +56,21 @@
 **Link(s) to work** https://github.com/Sirjustin/Personal-Portfolio-Webpage
 
 ### Day 6: January 8, 2017
-**Today's Progress**:
+**Today's Progress**:CSS review and portfolio. 
 
 **Thoughts** 
 
 **Link(s) to work**
 
-### Day : 
-**Today's Progress**:
+### Day 7: January 9, 2017
+**Today's Progress**:Worked on portfolio and animations
 
 **Thoughts** 
 
-**Link(s) to work**
+**Link(s) to work**https://github.com/Sirjustin/Personal-Portfolio-Webpage
 
-### Day : 
-**Today's Progress**:
+### Day 8: January 10, 2017
+**Today's Progress**: Did a lot of Code School SVG and trying to figure out JavaScript Road Trip 3
 
 **Thoughts** 
 
