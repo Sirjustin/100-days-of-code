@@ -76,34 +76,7 @@
 
 **Link(s) to work**
 
-
-### Day : 
-**Today's Progress**:
-
-**Thoughts** 
-
-**Link(s) to work**
-
-### Day : 
-**Today's Progress**:
-
-**Thoughts** 
-
-**Link(s) to work**
-
-### Day : 
-**Today's Progress**:
-
-**Thoughts** 
-
-**Link(s) to work**
-
-### Day : 
-**Today's Progress**:
-
-**Thoughts** 
-
-**Link(s) to work**
+**What to Work on Tomorrow** *Start Algorithim File with annotations on Git * Start Snippets from FCC lessons with explanations and additional links *SASS badges on CodeSchool *python quiz and convert to fcc quiz
 
 
 ### Day : 
@@ -113,12 +86,7 @@
 
 **Link(s) to work**
 
-### Day : 
-**Today's Progress**:
-
-**Thoughts** 
-
-**Link(s) to work**
+**What to Work on Tomorrow**
 
 ### Day : 
 **Today's Progress**:
@@ -127,13 +95,7 @@
 
 **Link(s) to work**
 
-### Day : 
-**Today's Progress**:
-
-**Thoughts** 
-
-**Link(s) to work**
-
+**What to Work on Tomorrow**
 
 ### Day : 
 **Today's Progress**:
@@ -142,12 +104,7 @@
 
 **Link(s) to work**
 
-### Day : 
-**Today's Progress**:
-
-**Thoughts** 
-
-**Link(s) to work**
+**What to Work on Tomorrow**
 
 ### Day : 
 **Today's Progress**:
@@ -156,13 +113,7 @@
 
 **Link(s) to work**
 
-### Day : 
-**Today's Progress**:
-
-**Thoughts** 
-
-**Link(s) to work**
-
+**What to Work on Tomorrow**
 
 ### Day : 
 **Today's Progress**:
@@ -171,6 +122,20 @@
 
 **Link(s) to work**
 
+**What to Work on Tomorrow**
+
+
+
+### Day : 
+**Today's Progress**:
+
+**Thou
+ghts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
 ### Day : 
 **Today's Progress**:
 
@@ -178,19 +143,7 @@
 
 **Link(s) to work**
 
-### Day : 
-**Today's Progress**:
-
-**Thoughts** 
-
-**Link(s) to work**
-
-### Day : 
-**Today's Progress**:
-
-**Thoughts** 
-
-**Link(s) to work**
+**What to Work on Tomorrow**
 
 
 ### Day : 
@@ -200,12 +153,8 @@
 
 **Link(s) to work**
 
-### Day : 
-**Today's Progress**:
+**What to Work on Tomorrow**
 
-**Thoughts** 
-
-**Link(s) to work**
 
 ### Day : 
 **Today's Progress**:
@@ -214,9 +163,125 @@
 
 **Link(s) to work**
 
+**What to Work on Tomorrow**
+
 ### Day : 
 **Today's Progress**:
 
 **Thoughts** 
 
 **Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### Day : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
