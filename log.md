@@ -87,14 +87,15 @@
 **Link(s) to work**
 
 **What to Work on Tomorrow**Start Snippets from FCC lessons with explanations and additional links *SASS badges on CodeSchool *python quiz and convert to fcc qui
-### Day : 
-**Today's Progress**:
 
-**Thoughts** 
+### Day 10 : January 12, 2017
+**Today's Progress**: Worked almost exclusively on scopes and closures and functions.   Very slow going.  
+
+**Thoughts** Pretty distracted!  
 
 **Link(s) to work**
 
-**What to Work on Tomorrow**
+**What to Work on Tomorrow**SASS badges on CodeSchool *python quiz and convert to fcc qui
 
 ### Day : 
 **Today's Progress**:
