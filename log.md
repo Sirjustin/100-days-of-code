@@ -98,13 +98,13 @@
 **What to Work on Tomorrow**SASS badges on CodeSchool *python quiz and convert to fcc qui
 
 ### Day 11:January 13, 2017
-**Today's Progress**: Hoisting through JSS road trip 3
+**Today's Progress**: Hoisting through JSS road trip 3, python quiz idea
 
 **Thoughts** Oh no is that a gas leak.
 
 **Link(s) to work**
 
-**What to Work on Tomorrow**
+**What to Work on Tomorrow**SASS badges on CodeSchool *python quiz and convert to fcc qui
 
 ### Day : 
 **Today's Progress**:
