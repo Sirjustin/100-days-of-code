@@ -91,16 +91,16 @@
 ### Day 10 : January 12, 2017
 **Today's Progress**: Worked almost exclusively on scopes and closures and functions.   Very slow going.  
 
-**Thoughts** Pretty distracted!  
+**Thoughts** Pretty distracted!  Need new water heater
 
 **Link(s) to work**
 
 **What to Work on Tomorrow**SASS badges on CodeSchool *python quiz and convert to fcc qui
 
-### Day : 
-**Today's Progress**:
+### Day 11:January 13, 2017
+**Today's Progress**: Hoisting through JSS road trip 3
 
-**Thoughts** 
+**Thoughts** Oh no is that a gas leak.
 
 **Link(s) to work**
 
