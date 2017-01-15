@@ -106,14 +106,14 @@
 
 **What to Work on Tomorrow**SASS badges on CodeSchool *python quiz and convert to fcc qui
 
-### Day : 
-**Today's Progress**:
+### Day 12: January 14, 2017
+**Today's Progress**:Continued to work on JSS Road Trip 3, using Eloquent Javascript for clarification. 
 
 **Thoughts** 
 
 **Link(s) to work**
 
-**What to Work on Tomorrow**
+**What to Work on Tomorrow** spend more time reviwing what other people aredoing. 
 
 ### Day : 
 **Today's Progress**:
