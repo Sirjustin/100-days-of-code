@@ -115,14 +115,14 @@
 
 **What to Work on Tomorrow** spend more time reviwing what other people aredoing. 
 
-### Day : 
-**Today's Progress**:
+### Day 13: January 15, 2017 
+**Today's Progress**:Stillllllllll working on JS script road trip 3
 
 **Thoughts** 
 
 **Link(s) to work**
 
-**What to Work on Tomorrow**
+,  **What to Work on Tomorrow****SASS badges on CodeSchool and weather app!
 
 
 
