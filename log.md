@@ -129,12 +129,12 @@
 ### Day 14 : January 16, 2017 
 **Today's Progress**:Finally finished Javascript Roadtrip 3
 
-**Thou
-ghts** 
+**Thoughts** 
 
 **Link(s) to work**  https://www.codeschool.com/courses/javascript-road-trip-part-3
+https://sirjustin.github.io/weather/
 
-**What to Work on Tomorrow**
+**What to Work on Tomorrow**Continue work on CSS 
 
 ### Day : 
 **Today's Progress**:
