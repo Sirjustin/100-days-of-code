@@ -136,14 +136,14 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**Continue work on CSS 
 
-### Day : 
-**Today's Progress**:
+### Day 15 : 
+**Today's Progress**: Did a solid three hours of trying to add the switch and background to Weather app.  Also minor tweak on quote machine to get it up and running. 
 
 **Thoughts** 
 
-**Link(s) to work**
+**Link(s) to work**https://sirjustin.github.io/weather/
 
-**What to Work on Tomorrow**
+**What to Work on Tomorrow** The mobile app
 
 
 ### Day : 
