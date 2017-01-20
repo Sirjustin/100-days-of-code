@@ -136,7 +136,7 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**Continue work on CSS 
 
-### Day 15 : 
+### Day 15 :January 17, 2017 
 **Today's Progress**: Did a solid three hours of trying to add the switch and background to Weather app.  Also minor tweak on quote machine to get it up and running. 
 
 **Thoughts** 
@@ -146,8 +146,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow** The mobile app
 
 
-### Day : 
-**Today's Progress**:
+### Day 16: January 18, 2017 : 
+**Today's Progress**: Got the backgroundand conversion feature working
 
 **Thoughts** 
 
@@ -156,8 +156,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### Day : 
-**Today's Progress**:
+### Day 17 :Januar 19, 2017 
+**Today's Progress**: Started on Code School course on updates to JavaScript, and set up the wikipedia viewer
 
 **Thoughts** 
 
