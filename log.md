@@ -156,7 +156,7 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### Day 17 :Januar 19, 2017 
+### Day 17 :January 19, 2017 
 **Today's Progress**: Started on Code School course on updates to JavaScript, and set up the wikipedia viewer
 
 **Thoughts** 
@@ -165,8 +165,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### Day : 
-**Today's Progress**:
+### 18 Day : January 20, 2017 
+**Today's Progress**:worked on algo and form submission.  
 
 **Thoughts** 
 
