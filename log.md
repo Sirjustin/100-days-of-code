@@ -174,10 +174,10 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### Day : 
-**Today's Progress**:
+### Day 19: January 21, 2017
+**Today's Progress**: Worked on Algos  and forms relying on web searches and eloquent javascript.  
 
-**Thoughts** 
+**Thoughts** I don't understand git nearly as well as I thought. 
 
 **Link(s) to work**
 
