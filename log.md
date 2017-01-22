@@ -183,8 +183,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### Day : 
-**Today's Progress**:
+### Day 20 : January 22, 2017 
+**Today's Progress**: Feelvery good about fors and algo project
 
 **Thoughts** 
 
