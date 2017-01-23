@@ -192,10 +192,10 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### Day : 
-**Today's Progress**:
+### Day 21: January 23, 2017  
+**Today's Progress**: Three good hours working on JS updatess in code school and starting to work carefully on Simpsons YDKJS Scopes and Closures.  
 
-**Thoughts** 
+**Thoughts** Physics? :(
 
 **Link(s) to work**
 
