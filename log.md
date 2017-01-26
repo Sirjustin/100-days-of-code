@@ -202,8 +202,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### Day : 
-**Today's Progress**:
+### Day 22: January 24, 2017  
+**Today's Progress**:Worked on Algos
 
 **Thoughts** 
 
@@ -211,8 +211,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### Day : 
-**Today's Progress**:
+### Day 23 :January 25, 2017 
+**Today's Progress**: worked on a bunch of examples from YDKJS
 
 **Thoughts** 
 
