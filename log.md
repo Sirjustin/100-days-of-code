@@ -221,12 +221,12 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### Day : 
-**Today's Progress**:
+### Day 24: January 26, 2017
+**Today's Progress**:Loved going through some of the beta.freecodecamp and solid 20 pages of YDKJS
 
 **Thoughts** 
 
-**Link(s) to work**
+**Link(s) to work** http://beta.freecodecamp.com/
 
 **What to Work on Tomorrow**
 
