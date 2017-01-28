@@ -231,10 +231,11 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### Day : 
-**Today's Progress**:
+### Day 25 : January 27, 2017
+**Today's Progress**:worked mostly on the portfolio
 
-**Thoughts** 
+**Thoughts** :1/4 of the way through. 
+
 
 **Link(s) to work**
 
