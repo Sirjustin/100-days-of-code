@@ -241,8 +241,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### Day : 
-**Today's Progress**:
+### Day 26 : January 28
+**Today's Progress**:Started on udacity's deep learning, worked on trading cards and portfolio
 
 **Thoughts** 
 
