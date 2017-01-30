@@ -250,10 +250,10 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### Day : 
-**Today's Progress**:
+### Day 27 : January 29 2017
+**Today's Progress**: Finished YDKJS Scopes, Worked on Weather App
 
-**Thoughts** 
+**Thoughts** had lunch with dustin and like talking about programming IRL
 
 **Link(s) to work**
 
