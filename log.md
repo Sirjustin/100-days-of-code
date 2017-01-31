@@ -259,10 +259,11 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### Day : 
-**Today's Progress**:
+### Day 28 : January 30, 2017
+**Today's Progress**:Worked on Datacamp python to ready myself for the first deep learning exercises.  
 
-**Thoughts** 
+**Thoughts**  Didn't quite get what I wanted to
+
 
 **Link(s) to work**
 
