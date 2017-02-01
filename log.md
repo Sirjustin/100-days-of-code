@@ -269,8 +269,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### Day : 
-**Today's Progress**:
+### Day 29 : January 31,2017
+**Today's Progress**: Worked on python in datacamp and light fcc algor.
 
 **Thoughts** 
 
