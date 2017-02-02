@@ -279,10 +279,10 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### Day : 
-**Today's Progress**:
+### Day 30  : Feb. 1
+**Today's Progress**:More python, started Neural Net project
 
-**Thoughts** 
+**Thoughts** cancelled udacity web dev.  The nanondegree for deep learning is much moredemaning than expected.  
 
 **Link(s) to work**
 
