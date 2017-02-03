@@ -279,7 +279,7 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### Day 30  : Feb. 1
+### Day 30  : Feb. 1, 2017
 **Today's Progress**:More python, started Neural Net project
 
 **Thoughts** cancelled udacity web dev.  The nanondegree for deep learning is much moredemaning than expected.  
@@ -287,3 +287,687 @@ https://sirjustin.github.io/weather/
 **Link(s) to work**
 
 **What to Work on Tomorrow**
+
+### 31: Feb.2, 2017 
+**Today's Progress**: Few FCC exercises, passed 0/5 tests on 1st neural net and the highlight of my codin career created 1st issue on github and got responses.  
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+### : 
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
+**What to Work on Tomorrow**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
