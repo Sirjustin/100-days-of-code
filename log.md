@@ -297,10 +297,10 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### : 
-**Today's Progress**:
+### 32: Feb. 3, 2017
+**Today's Progress**:spent almost three hours doing beta.freecodecamp and woring on the algor
 
-**Thoughts** 
+**Thoughts** ughhhh desighn
 
 **Link(s) to work**
 
