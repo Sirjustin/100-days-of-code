@@ -306,8 +306,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### : 
-**Today's Progress**:
+### 33: Feb. 4, 2017 
+**Today's Progress**: Worked on algor site, Playd with D3. and alittle eloquent javascript
 
 **Thoughts** 
 
