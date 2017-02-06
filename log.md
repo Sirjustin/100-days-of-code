@@ -315,8 +315,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### : 
-**Today's Progress**:
+### 34:Feb. 5, 2017 
+**Today's Progress**: Lots of frustrating time on weather app
 
 **Thoughts** 
 
