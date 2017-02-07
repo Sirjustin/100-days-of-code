@@ -326,13 +326,13 @@ https://sirjustin.github.io/weather/
 
 
 ### 35:Feb 6,2017 
-**Today's Progress**:
+**Today's Progress**:Wouldn't call it progress. Worked on wikipedia viewer and a bit of codeschool tutorial
 
 **Thoughts** 
 
 **Link(s) to work**
 
-**What to Work on Tomorrow**
+**What to Work on Tomorrow** Finish up the Weather App and do some algor. work
 
 ### : 
 **Today's Progress**:
