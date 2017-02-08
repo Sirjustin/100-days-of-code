@@ -334,8 +334,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow** Finish up the Weather App and do some algor. work
 
-### : 
-**Today's Progress**:
+### 36 : Feb 7, 2017
+**Today's Progress**: About sixty minutes of working on tutorials and weather app; 180 minutes regretting I have a dell
 
 **Thoughts** 
 
