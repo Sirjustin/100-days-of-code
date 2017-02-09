@@ -344,8 +344,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 37 : Feb 8, 2017 
+**Today's Progress**: Worked on weather app and beta FCC tutorials. 
 
 **Thoughts** 
 
