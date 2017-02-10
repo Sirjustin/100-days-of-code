@@ -354,8 +354,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 38 : Feb 9, 2017 
+**Today's Progress**: Second github issue regarding memory and workd on beta FCC D3 and played around CSS
 
 **Thoughts** 
 
