@@ -364,8 +364,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 39: Feb 10, 2017 
+**Today's Progress**: Mostly worked on CSS shapes and flexbox. 
 
 **Thoughts** 
 
