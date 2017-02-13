@@ -374,8 +374,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 40: Feb 11, 2017 
+**Today's Progress**:CSS shapes and Reg exp
 
 **Thoughts** 
 
@@ -384,8 +384,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 41: Feb 12, 2017
+**Today's Progress**: All Beta FCC Challenes
 
 **Thoughts** 
 
