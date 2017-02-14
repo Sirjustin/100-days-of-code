@@ -394,10 +394,10 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 42: Feb 13, 2017
+**Today's Progress**: Bare minimum hour working on the algo project and Beta Free Code Camp.  
 
-**Thoughts** 
+**Thoughts** I am so tired.
 
 **Link(s) to work**
 
