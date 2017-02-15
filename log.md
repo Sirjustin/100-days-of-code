@@ -404,10 +404,10 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 43 : Feb 14, 2017
+**Today's Progress**: Least productive day of the year and only counts if I cobble together the bits I did 
 
-**Thoughts** 
+**Thoughts** The section on this in YDKJS is too hard for me to do anything with and it felt more like I was reading it in preperation for the next reading.  
 
 **Link(s) to work**
 
