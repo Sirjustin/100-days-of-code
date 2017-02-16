@@ -422,8 +422,8 @@ https://sirjustin.github.io/weather/
 **Link(s) to work**
 
 **What to Work on Tomorrow**
-### : 
-**Today's Progress**:
+### 45 : Feb 16, 2017
+**Today's Progress**:Protypes and This....tried a very early coding session. Very tide.   
 
 **Thoughts** 
 
