@@ -414,10 +414,10 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 44: Feb. 15,2017
+**Today's Progress**:Slowly but carefully did this exercises and reported a bug. 
 
-**Thoughts** 
+**Thoughts** Not devoting my best hour of the day by waiting until the end of the day but I got something done.  Maybe more than I would expect
 
 **Link(s) to work**
 
