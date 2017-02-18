@@ -441,8 +441,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### : 
-**Today's Progress**:
+### 47: Feb 18, 2017
+**Today's Progress**:Worked on a variety of Beta FCC and went back to Code School.  
 
 **Thoughts** 
 
