@@ -422,6 +422,7 @@ https://sirjustin.github.io/weather/
 **Link(s) to work**
 
 **What to Work on Tomorrow**
+
 ### 45 : Feb 16, 2017
 **Today's Progress**:Protypes and This....tried a very early coding session. Very tide.   
 
@@ -430,8 +431,9 @@ https://sirjustin.github.io/weather/
 **Link(s) to work**
 
 **What to Work on Tomorrow**
-### : 
-**Today's Progress**:
+
+### 46:Feb 17,2017 
+**Today's Progress**: More Beta Free Code Camp and opened another issue.  
 
 **Thoughts** 
 
