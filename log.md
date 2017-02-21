@@ -450,8 +450,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### : 
-**Today's Progress**:
+###48 : Feb 19, 2017 
+**Today's Progress**:Ruby, python and JS
 
 **Thoughts** 
 
@@ -459,8 +459,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### : 
-**Today's Progress**:
+### 49 Feb 20: 2017 
+**Today's Progress**: Jquery and completed python badge. 
 
 **Thoughts** 
 
