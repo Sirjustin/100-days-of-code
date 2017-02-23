@@ -477,8 +477,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### : 
-**Today's Progress**:
+### 51: Feb 22, 2017
+**Today's Progress**:More Jquuery.  
 
 **Thoughts** 
 
