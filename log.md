@@ -506,8 +506,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 54: Feb 25,2017
+**Today's Progress**:Basically Jquery. Little quote
 
 **Thoughts** 
 
