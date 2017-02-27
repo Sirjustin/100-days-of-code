@@ -516,8 +516,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
- ### : 
-**Today's Progress**:
+ ### 55: Feb 26,2017 
+**Today's Progress**:finished badges, tried to figure out the Pomodoro Clock
 
 **Thoughts** 
 
