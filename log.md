@@ -526,8 +526,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 56:Feb 27, 2017
+**Today's Progress**: Worked on another jquery badge and tried to think of ways to have the time timer. 
 
 **Thoughts** 
 
