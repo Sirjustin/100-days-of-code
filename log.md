@@ -547,8 +547,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 58:March 1, 2017
+**Today's Progress**: Tried to make sense of jquery plugins
 
 **Thoughts** 
 
