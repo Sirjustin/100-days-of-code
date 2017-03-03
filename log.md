@@ -557,8 +557,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 59:March 2, 2017
+**Today's Progress**: OMG I Hate jquery and promises.
 
 **Thoughts** 
 
