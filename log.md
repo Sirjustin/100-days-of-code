@@ -567,8 +567,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 60:March 3, 2017
+**Today's Progress**: Inspired by some discussions at work I did 2.5 sections of Codeschool's node badge.  
 
 **Thoughts** 
 
