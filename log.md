@@ -586,7 +586,7 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 ### 62: 
-**Today's Progress**:
+**Today's Progress**: Worked on basic html css stuff for a type of personal organizer.  
 
 **Thoughts** 
 
