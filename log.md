@@ -593,8 +593,8 @@ https://sirjustin.github.io/weather/
 **Link(s) to work**
 
 **What to Work on Tomorrow**
-### : 
-**Today's Progress**:
+### 63: March 6, 2017 
+**Today's Progress**: Started codeschool tutorial on Bootstrap and worked on my life page.  
 
 **Thoughts** 
 
