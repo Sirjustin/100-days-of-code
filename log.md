@@ -602,8 +602,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### : 
-**Today's Progress**:
+### 64: March 7, 2017 
+**Today's Progress**: Worked on my life plan thing.  Feel good about it.  
 
 **Thoughts** 
 
