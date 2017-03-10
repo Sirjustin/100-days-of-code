@@ -585,6 +585,7 @@ https://sirjustin.github.io/weather/
 **Link(s) to work**
 
 **What to Work on Tomorrow**
+
 ### 62: March 5, 2017
 **Today's Progress**: Worked on basic html css stuff for a type of personal organizer.  
 
@@ -610,8 +611,9 @@ https://sirjustin.github.io/weather/
 **Link(s) to work**
 
 **What to Work on Tomorrow**
-### : 
-**Today's Progress**:
+
+### 65: March 8, 2017
+**Today's Progress**:Bought airplane internet access to work on my life project. Brilliant Choice
 
 **Thoughts** 
 
@@ -619,8 +621,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### : 
-**Today's Progress**:
+### 66: March 9, 2017
+**Today's Progress**: Finished Jquery badge on codeschool
 
 **Thoughts** 
 
