@@ -630,7 +630,7 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### : 
+### 67:March 10, 2017
 **Today's Progress**:
 
 **Thoughts** 
@@ -639,8 +639,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### : 
-**Today's Progress**:
+### 68: March 11, 2017
+**Today's Progress**:Intermediate Python for Datascience and some webdesign
 
 **Thoughts** 
 
@@ -649,8 +649,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 69:March 12, 2017
+**Today's Progress**:Finished Intermediate Python for Datascience
 
 **Thoughts** 
 
