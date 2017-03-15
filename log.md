@@ -658,8 +658,8 @@ https://sirjustin.github.io/weather/
 
 **What to Work on Tomorrow**
 
-### : 
-**Today's Progress**:
+### 70: March 13,2017
+**Today's Progress**: 1/2 design principles 1/2 python 1/4 JS Code Camp Prep---all at the expense of math studies today. 
 
 **Thoughts** 
 
@@ -668,7 +668,7 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
+### 71: March 14,2017
 **Today's Progress**:
 
 **Thoughts** 
