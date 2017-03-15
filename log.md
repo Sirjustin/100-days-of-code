@@ -669,7 +669,7 @@ https://sirjustin.github.io/weather/
 
 
 ### 71: March 14,2017
-**Today's Progress**:
+**Today's Progress**:Workedon datacamp toolbox and played around with python.
 
 **Thoughts** 
 
