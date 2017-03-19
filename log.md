@@ -678,8 +678,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 72: March 15,2017
+**Today's Progress**: Flatiron JS
 
 **Thoughts** 
 
@@ -688,8 +688,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 73: March 16, 2017 
+**Today's Progress**: Flatiron JS
 
 **Thoughts** 
 
@@ -698,8 +698,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 74: March 17, 2017 
+**Today's Progress**: Flatiron JS
 
 **Thoughts** 
 
@@ -708,8 +708,8 @@ https://sirjustin.github.io/weather/
 **What to Work on Tomorrow**
 
 
-### : 
-**Today's Progress**:
+### 75:March 18, 2017 
+**Today's Progress**:   Flatiron JS
 
 **Thoughts** 
 
